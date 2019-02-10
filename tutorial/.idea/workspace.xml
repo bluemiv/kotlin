@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77aaf93e-ab28-4795-9329-8ccf4a9e4147" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Ex10172.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Ex11022.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Ex15904.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/Ex2438.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam02/CustomAccessor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam02/EnumClassColor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam02/JavaEnumExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam02/PersonClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam02/PersonJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam02/StringTemplate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam02/EnumClassWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam02/SmartCast.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam02/SmartCastRefactoring.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/Exam01Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/Exam01Kt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/tutorial/META-INF/tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/META-INF/tutorial.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/TestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/TestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex1000Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex1000Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex10172Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex10172Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex11022Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex11022Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex15904Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex15904Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex2438Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/baekjoon/Ex2438Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/Color2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/Color2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/CustomAccessorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/CustomAccessorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/EnumClassColorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/EnumClassColorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/HelloWorldKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/MutableAndImmutableKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/MutableAndImmutableKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/Person2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/Person2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/PersonClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/PersonClassKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/ReturnMethodKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/ReturnMethodKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/StringTemplateKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/StringTemplateKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tutorial/exam02/VariableKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/exam02/VariableKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exam02/EnumClassColor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/exam02/EnumClassColor.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +41,24 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exam02/SmartCast.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -45,6 +69,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/exam02</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -71,8 +98,12 @@
         <option value="$PROJECT_DIR$/src/exam02/CustomAccessor.kt" />
         <option value="$PROJECT_DIR$/src/exam02/PersonClass.kt" />
         <option value="$PROJECT_DIR$/src/baekjoon/Ex15904.kt" />
-        <option value="$PROJECT_DIR$/src/exam02/EnumClassColor.kt" />
         <option value="$PROJECT_DIR$/src/exam02/JavaEnumExam.java" />
+        <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/src/exam02/EnumClassColor.kt" />
+        <option value="$PROJECT_DIR$/src/exam02/EnumClassWhen.kt" />
+        <option value="$PROJECT_DIR$/src/exam02/SmartCastRefactoring.kt" />
+        <option value="$PROJECT_DIR$/src/exam02/SmartCast.kt" />
       </list>
     </option>
   </component>
@@ -90,7 +121,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,10 +149,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549776715370" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549802374800" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunDashboard">
@@ -137,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaEnumExam">
+  <component name="RunManager" selected="Kotlin.exam02.SmartCastKt">
     <configuration name="JavaEnumExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exam02.JavaEnumExam" />
       <module name="tutorial" />
@@ -164,27 +195,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon.Ex2438Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="exam02.EnumClassWhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="tutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="baekjoon.Ex2438Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exam02.CustomAccessorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="tutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exam02.CustomAccessorKt" />
+      <option name="MAIN_CLASS_NAME" value="exam02.EnumClassWhenKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -203,13 +221,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exam02.SmartCastKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exam02.SmartCastKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.exam02.SmartCastKt" />
+        <item itemvalue="Kotlin.exam02.EnumClassWhenKt" />
         <item itemvalue="Application.JavaEnumExam" />
         <item itemvalue="Kotlin.baekjoon.Ex15904Kt" />
         <item itemvalue="Kotlin.exam02.PersonClassKt" />
-        <item itemvalue="Kotlin.exam02.CustomAccessorKt" />
-        <item itemvalue="Kotlin.baekjoon.Ex2438Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,9 +258,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="819" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -238,7 +269,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30811554" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30769232" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -246,7 +277,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32599726" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32554945" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -297,13 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exam02/ReturnMethod.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exam02/Variable.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -317,7 +341,6 @@
           <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           <folding>
             <element signature="e#18#99#0" expanded="true" />
-            <marker date="1549450262875" expanded="true" signature="552:747" ph="..." />
           </folding>
         </state>
       </provider>
@@ -392,10 +415,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam02/EnumClassWhen.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam02/ReturnMethod.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exam02/EnumClassColor.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam02/SmartCastRefactoring.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam02/SmartCast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="53" />
         </state>
       </provider>
     </entry>
