@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77aaf93e-ab28-4795-9329-8ccf4a9e4147" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exam02/MapIterator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam02/HowToUseIn.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/tutorial/META-INF/tutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial/META-INF/tutorial.kotlin_module" afterDir="false" />
     </list>
@@ -17,17 +17,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exam02/MapIterator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/exam02/SmartCast.kt" />
         <option value="$PROJECT_DIR$/src/exam02/FizzBuzz.kt" />
         <option value="$PROJECT_DIR$/src/exam02/MapIterator.kt" />
+        <option value="$PROJECT_DIR$/src/exam02/HowToUseIn.kt" />
       </list>
     </option>
   </component>
@@ -98,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,10 +118,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549809240702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550668828007" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunDashboard">
@@ -146,20 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.exam02.MapIteratorKt">
-    <configuration name="JavaEnumExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam02.JavaEnumExam" />
-      <module name="tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exam02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.exam02.HowToUseInKt">
     <configuration name="exam02.EnumClassWhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="tutorial" />
       <option name="VM_PARAMETERS" />
@@ -181,6 +159,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="exam02.FizzBuzzKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam02.HowToUseInKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exam02.HowToUseInKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -214,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.exam02.HowToUseInKt" />
         <item itemvalue="Kotlin.exam02.MapIteratorKt" />
         <item itemvalue="Kotlin.exam02.FizzBuzzKt" />
         <item itemvalue="Kotlin.exam02.SmartCastKt" />
         <item itemvalue="Kotlin.exam02.EnumClassWhenKt" />
-        <item itemvalue="Application.JavaEnumExam" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +229,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17453505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,10 +426,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/exam02/HowToUseIn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exam02/MapIterator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
